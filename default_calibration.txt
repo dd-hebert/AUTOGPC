@@ -1,0 +1,4 @@
+Detector,Slope,Intercept
+RI,0,0
+RALS,-0.77979129,9.8742309
+LALS,-0.75412241,9.7001338
