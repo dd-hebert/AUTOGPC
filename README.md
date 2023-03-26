@@ -3,6 +3,8 @@ A full GUI MATLAB app for processing GPC data files from Malvern OMNISEC softwar
 
 This app parses and analyzes files exported directly from OMNISEC. The app will calculate polymer weight-average molecular weight (<i>M<sub>w</sub></i>), number-average molecular weight (<i>M<sub>n</sub></i>), polydispersity index (*Đ*), and fractional monomer conversion (*p*). A report of the data can be generated along with images of the chromatograms for each detector.
 
+Currently only systems using a triple detector (refractive index, low-angle light scattering, and right-angle light scattering) setup are supported (see [disclaimer](#disclaimer)).
+
 ## How to Use
 Download all the repo files into your MATLAB working directory, then open and run the ``.m`` file. You can use the ``.mlapp`` file and MATLAB's App Designer to make changes to the app if you wish.
 
