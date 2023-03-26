@@ -11,4 +11,4 @@ The text file ``polymers.txt`` provides a list of values for polymer-repeat-unit
 The text file ``default_calibration.txt`` gives the default calibration of the detectors. Recalibrating from within the app and saving the new calibration will overwrite the previous ``default_calibration.txt``.
 
 ## Disclaimer
-This app was created by me during my Master's studies to streamline GPC data processing. As such, it has only been tested on data files exported from one machine running one version of OMNISEC. I cannot guarantee it will work for other systems or versions of OMNISEC.
+This app was created by me in 2019 during my Master's studies to streamline GPC data processing. As such, it has only been tested on data files exported from one machine running one version of OMNISEC. I cannot guarantee it will work for other systems or versions of OMNISEC.
