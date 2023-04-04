@@ -8,9 +8,9 @@ Currently only systems using a triple detector (refractive index, low-angle ligh
 ## How to Use
 Download all the repo files into your MATLAB working directory, then open and run the ``.m`` file. You can use the ``.mlapp`` file and MATLAB's App Designer to make changes to the app if you wish.
 
-The text file ``polymers.txt`` provides a list of values for polymer-repeat-unit molecular weights (<i>M<sub>0</sub></i>). This list can be edited from within the app.
+The text file ``polymers.txt`` stores a list of polymer-repeat-unit molecular weights (<i>M<sub>0</sub></i>). This list can be edited from within the app.
 
-The text file ``default_calibration.txt`` gives the default calibration of the detectors. Recalibrating from within the app and saving the new calibration will overwrite the previous ``default_calibration.txt``.
+The text file ``default_calibration.txt`` stores the default calibration for the detectors (RI, RALS, LALS). Recalibrating from within the app and saving the new calibration will overwrite the previous ``default_calibration.txt``.
 
 ## Requirements
 The *statistics and machine learning toolbox* is required to use the calibration function (for linear regression fitting of polymer standards).
