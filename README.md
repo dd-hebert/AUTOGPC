@@ -16,4 +16,4 @@ The text file ``default_calibration.txt`` gives the default calibration of the d
 The *statistics and machine learning toolbox* is required to use the calibration function (for linear regression fitting of polymer standards).
 
 ## Disclaimer
-This app was created by me in 2019 during my Master's studies to streamline GPC data processing. As such, it has only been tested on data files exported from one machine running one version of OMNISEC. I cannot guarantee it will work for other systems or versions of OMNISEC.
+This app was created by me in 2019 during my Master's studies to streamline GPC data processing. As such, it has only been tested on data files exported from one machine, running one version of OMNISEC. I cannot guarantee it will work for other systems or versions of OMNISEC.
